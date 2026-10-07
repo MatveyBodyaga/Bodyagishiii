@@ -112,7 +112,7 @@ ___
     Параграф внутри второго пункта
 1. Третий пункт
 
-Ссылкиуу:<https://skillbox.ru/media/code/>
+Ссылкиуу:
 
 [Skillbox Media](https://skillbox.ru/media/)
 
