@@ -126,6 +126,10 @@ ___
 [1]: https://skillbox.ru/media "Перейди"
 [code]: https://skillbox.ru/media/code/
 ![Изображение](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png "Логотип Markdown")
+![Изображение][1]
+
+
+[1]: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png "Логотип Markdown"
 
 Функция `print (x)` выводит содержимое переменной ```x```.
 
